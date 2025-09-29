@@ -58,6 +58,7 @@
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+<<<<<<< HEAD
 
 	<!-- SECURITY -->
 		<dependency>
@@ -83,6 +84,8 @@
 			<scope>runtime</scope>
 		</dependency>
 
+=======
+>>>>>>> df131cdca1375f03440cc46f705166dc63fcabfb
 	</dependencies>
 
 	<build>

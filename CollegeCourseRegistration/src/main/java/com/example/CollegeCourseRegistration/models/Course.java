@@ -15,7 +15,11 @@ import java.util.List;
 public class Course {
 
     @Id
+<<<<<<< HEAD
     @Column(nullable = false, unique = true)
+=======
+//    @Column(nullable = false, unique = true)
+>>>>>>> df131cdca1375f03440cc46f705166dc63fcabfb
     private String courseCode;
     private String courseName;
     private int capacity;
